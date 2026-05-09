@@ -68,12 +68,13 @@ My goal is to build projects that show both sides of my background:
 ## 🚀 Featured Projects
 
 ### 🧬 1. Decoding Cancer-Associated Fibroblast Heterogeneity in Breast Cancer Metastasis Using scRNA-seq
+**Status:** Ongoing research project  
 **Type:** Bioinformatics / Cancer Genomics / Single-cell RNA-seq  
 **Tools:** R, Seurat, Matrix, dplyr, ggplot2, CellChat concepts
 
-- Analyzed the **GSE176078 breast cancer scRNA-seq dataset** to study tumor microenvironment heterogeneity with a focus on cancer-associated fibroblasts.
-- Built a Seurat-based workflow including quality control, filtering, normalization, highly variable gene selection, PCA, UMAP, clustering, and CAF extraction.
-- Investigated CAF subtype biology using markers such as **COL1A1, COL1A2, ACTA2, FAP, CXCL12, IL6, TAGLN, FN1**, and collagen-related genes.
+- Currently analyzing the **GSE176078 breast cancer scRNA-seq dataset** to study tumor microenvironment heterogeneity with a focus on cancer-associated fibroblasts.
+- Developed the first stages of a Seurat-based workflow including quality control, filtering, normalization, highly variable gene selection, PCA, UMAP, clustering, and CAF extraction.
+- Ongoing work focuses on CAF subtype annotation, differential expression, pathway enrichment, and cell-cell communication analysis.
 
 ---
 
