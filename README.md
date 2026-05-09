@@ -1,105 +1,186 @@
 # Hi, I'm Shimaa Mohamed Abdel Elhalim 👋
 
-🎓 **Biomedical Science student** specializing in **Computational Biology and Genomics**.  
+🎓 **Biomedical Science Undergraduate | Computational Biology & Genomics**  
 🧬 Interested in **bioinformatics, cancer genomics, single-cell RNA-seq, molecular biology, and biomedical data analysis**.  
-💻 I work with **R, Python, MATLAB, Seurat, genomics workflows, and scientific reporting**.
+💻 Building a professional portfolio that connects **computational biology + laboratory biomedical science**.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 About Me
 
+I am a Biomedical Science student at **Zewail City of Science and Technology**, specializing in **Computational Biology and Genomics**. I am currently developing skills in **Python, R, bioinformatics workflows, scRNA-seq analysis, statistical analysis, and biomedical research design**.
+
+My goal is to build projects that show both sides of my background:  
+**wet-lab biomedical understanding** + **computational analysis of biological data**.
+
+---
+
+## 🧠 Research Interests
+
+- Bioinformatics and computational biology
 - Cancer genomics and tumor microenvironment analysis
-- Single-cell RNA-seq and cancer-associated fibroblast biology
-- Computational biology and comparative genomics
-- Molecular biology experimental design
-- Numerical modeling of gene expression
-- Machine learning applications in biomedical research
+- Single-cell RNA sequencing analysis
+- Cancer-associated fibroblasts and metastasis biology
+- Molecular therapeutics and aptamer design
+- CRISPR-based therapeutic strategies
+- Biomedical statistics and clinical data analysis
+- Microbiology, pathogenesis, and host-pathogen interactions
 
 ---
 
-## 🧰 Skills
+## 🧰 Technical Skills
 
 ### Programming & Data Analysis
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/R-Data%20Analysis-blue?style=flat-square&logo=r)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=flat-square&logo=python)
+![R](https://img.shields.io/badge/R-Statistics%20%26%20Bioinformatics-blue?style=flat-square&logo=r)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Numerical%20Modeling-orange?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Biomedical%20Data-green?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-Data%20Handling-green?style=flat-square&logo=microsoft-excel)
+
+- Python for data analysis and automation
+- R for statistical analysis and bioinformatics workflows
+- MATLAB for numerical modeling
+- Data cleaning, visualization, and scientific interpretation
 
 ### Bioinformatics
 ![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single--Cell%20Analysis-purple?style=flat-square)
 ![Seurat](https://img.shields.io/badge/Seurat-R%20Pipeline-red?style=flat-square)
 ![Cancer Genomics](https://img.shields.io/badge/Cancer%20Genomics-TME%20Analysis-pink?style=flat-square)
-![Comparative Genomics](https://img.shields.io/badge/Comparative%20Genomics-Evolutionary%20Analysis-teal?style=flat-square)
+![CellChat](https://img.shields.io/badge/CellChat-Cell--Cell%20Communication-teal?style=flat-square)
 
-### Molecular Biology
-- PCR and primer design
-- Agarose gel electrophoresis
-- Restriction digestion and ligation
-- Bacterial transformation
-- Plasmid miniprep
-- SELEX-based experimental design
+- Single-cell RNA-seq workflow concepts
+- Seurat pipeline: QC, filtering, normalization, HVG selection, PCA, UMAP, clustering
+- Cell-type annotation and marker-gene interpretation
+- CAF subtype analysis and tumor microenvironment interpretation
+- Differential expression, pathway enrichment, and cell-cell communication concepts
+
+### Molecular Biology & Laboratory Skills
+
+- PCR, colony PCR, PCR-RFLP
+- DNA extraction, amplification, and agarose gel electrophoresis
+- SNP genotyping and VNTR analysis
+- Restriction digestion, ligation, bacterial transformation, and cloning concepts
+- Bacterial growth analysis and CFU enumeration
+- Selective/differential media, biochemical tests, and antimicrobial susceptibility concepts
+- Scientific reporting, experimental design, and hypothesis testing
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧬 Single-Cell RNA-seq Analysis of Breast Cancer Tumor Microenvironment
-Custom Seurat-based pipeline for analyzing breast cancer single-cell RNA-seq data, including QC, normalization, PCA, UMAP, clustering, and major cell type annotation.
+### 🧬 1. Decoding Cancer-Associated Fibroblast Heterogeneity in Breast Cancer Metastasis Using scRNA-seq
+**Type:** Bioinformatics / Cancer Genomics / Single-cell RNA-seq  
+**Tools:** R, Seurat, Matrix, dplyr, ggplot2, CellChat concepts
 
-**Tools:** R, Seurat, Matrix, dplyr, ggplot2  
-**Focus:** Breast cancer, tumor microenvironment, cell type annotation, single-cell analysis
-
----
-
-### 🧫 CAF Subtyping and Metastasis-Related Signaling
-Focused analysis of cancer-associated fibroblasts in breast cancer to investigate CAF heterogeneity and their possible role in tumor progression and metastasis.
-
-**Tools:** R, Seurat, CellChat concept, pathway analysis concept  
-**Focus:** CAFs, metastasis, ER+, HER2+, TNBC, tumor microenvironment
+- Analyzed the **GSE176078 breast cancer scRNA-seq dataset** to study tumor microenvironment heterogeneity with a focus on cancer-associated fibroblasts.
+- Built a Seurat-based workflow including quality control, filtering, normalization, highly variable gene selection, PCA, UMAP, clustering, and CAF extraction.
+- Investigated CAF subtype biology using markers such as **COL1A1, COL1A2, ACTA2, FAP, CXCL12, IL6, TAGLN, FN1**, and collagen-related genes.
 
 ---
 
-### 🧮 Numerical Modeling of Gene Expression in Chronic Myeloid Leukemia
-MATLAB-based numerical analysis project modeling gene expression dynamics related to BCR-ABL1-driven chronic myeloid leukemia.
+### 🧪 2. Optimized SELEX Aptamers for Therapeutic Targeting of Prion Protein
+**Type:** Molecular Therapeutics / Research Proposal / Aptamer Design  
+**Focus:** Prion disease, SELEX, L-RNA Spiegelmer aptamers, nanoparticle delivery
 
-**Tools:** MATLAB, numerical analysis, mathematical modeling  
-**Focus:** CML, BCR-ABL1, gene expression dynamics, targeted therapy modeling
-
----
-
-### 🧪 Optimized SELEX Aptamers for Therapeutic Targeting of Prion Protein
-Biomedical research proposal designing L-RNA Spiegelmer aptamers targeting pathogenic prion protein misfolding and aggregation.
-
-**Methods:** SELEX, EMSA, SPR/BLI, ThT aggregation assay, nanoparticle delivery concept  
-**Focus:** Prion protein, aptamer therapeutics, molecular biology experimental design
+- Developed a grant-style therapeutic proposal targeting prion protein misfolding in Creutzfeldt-Jakob disease using **SELEX-derived L-RNA Spiegelmer aptamers**.
+- Designed methodology for recombinant prion protein preparation, aptamer selection, binding assays, EMSA, ThT aggregation inhibition, and cellular uptake analysis.
+- Integrated molecular biology, protein-binding assays, nanomedicine, and therapeutic aptamer design against prion aggregation.
 
 ---
 
-### 🧬 Detecting Positive Selection in Genomes
-Comparative genomics project focused on identifying signatures of adaptive evolution using bioinformatics-based genome analysis.
+### 🧬 3. Lecithin Nano-Liposomes-Mediated CRISPR-Cas9 Targeting of DPP-4 for Type 2 Diabetes Therapy
+**Type:** Molecular Biology / Gene Editing / Nanomedicine  
+**Focus:** CRISPR-Cas9, DPP-4 knockout, GLP-1 activity, type 2 diabetes
 
-**Tools:** NCBI, BLAST, alignment tools, Python/R concept  
-**Focus:** Positive selection, comparative genomics, evolutionary analysis
-
----
-
-## 📌 Current Focus
-
-I am currently building a strong **bioinformatics portfolio** combining:
-
-- Real scRNA-seq workflows
-- Cancer genomics projects
-- Molecular biology research proposals
-- MATLAB/numerical modeling projects
-- Comparative genomics analyses
+- Proposed a CRISPR-Cas9 strategy to disrupt the **DPP-4 gene** to preserve GLP-1 activity and improve glucose regulation in type 2 diabetes.
+- Designed a workflow using sgRNA design, Cas9-RNP delivery, lecithin-based nanocarriers, transfection, PCR/sequencing validation, and protein-level assessment.
+- Connected diabetes pathophysiology with gene-editing and nanocarrier-based therapeutic delivery.
 
 ---
 
-## 📫 Contact
+### 📊 4. Biostatistics Analysis: Combined Effects of Smoking, Age, and Gender on Hypertension
+**Type:** Biostatistics / Public Health Data Analysis  
+**Tools:** R, Excel, ANOVA, regression, visualization
 
-- GitHub: [shaimaamo1](https://github.com/shaimaamo1)
-- Email: shaimaamo1000@gmail.com
+- Analyzed a health dataset to evaluate the association of smoking status, age group, and gender with systolic blood pressure.
+- Applied descriptive statistics, normality assessment, Shapiro-Wilk testing, Q-Q plots, one-way/two-way ANOVA, and regression interpretation.
+- Built visualizations including boxplots and histograms to communicate statistical patterns and biomedical meaning.
 
 ---
 
-⭐ This profile is continuously updated as I add more biomedical and bioinformatics projects.
+### 🦠 5. Navigating *Escherichia coli*: Clinical Characterization and Effective Inhibitory Approaches
+**Type:** Microbiology / Laboratory Research  
+**Focus:** Bacterial characterization, bacterial growth, inhibitory approaches, bacteriophage concepts
+
+- Investigated *E. coli* growth, metabolism, biochemical behavior, and inhibitory approaches using selective/differential media and microbiology assays.
+- Interpreted bacterial growth curves, carbohydrate fermentation, pH/osmotic stress responses, UV exposure effects, and chemical inhibition patterns.
+- Explored bacteriophage isolation and infection concepts as an alternative antimicrobial strategy.
+
+---
+
+### 🧫 6. Analytical Project: Analysis of Glucose
+**Type:** Clinical Biochemistry / Diagnostic Analysis  
+**Focus:** Blood glucose, enzymatic colorimetric assay, spectrophotometry
+
+- Performed and interpreted glucose analysis using the glucose oxidase-peroxidase colorimetric method.
+- Analyzed absorbance-based glucose concentration and interpreted elevated glucose in relation to hyperglycemia and diabetes screening.
+- Discussed method limitations and possible error sources including pipetting, incubation, centrifugation, and analyzer-related variation.
+
+---
+
+### 🧮 7. Linear Algebra Exploration of Eigenvalues and Eigenvectors in a Light-Sensitive Intelligent LED System
+**Type:** Applied Mathematics / Smart System Modeling  
+**Tools:** Python, NumPy, linear algebra
+
+- Modeled a smart LED system using sensor readings represented as matrices.
+- Applied covariance matrices, eigenvalues, and eigenvectors to identify dominant light-intensity variation patterns.
+- Connected mathematical modeling to adaptive brightness control, energy efficiency, and intelligent system design.
+
+---
+
+### 🫁 8. *Streptococcus pneumoniae*: Pathogenesis and Interactions with Host Defenses
+**Type:** Pathogenesis / Microbiology / Host-Pathogen Interaction
+
+- Studied the pathogenesis cycle of *Streptococcus pneumoniae*, including transmission, adherence, colonization, invasion, immune evasion, host damage, and exit.
+- Explained virulence factors such as the polysaccharide capsule, pneumolysin, hydrogen peroxide, extracellular vesicles, and hyaluronidase.
+- Connected bacterial pathogenesis mechanisms to vaccine development and therapeutic targeting opportunities.
+
+---
+
+### 🛒 9. Aurora – Intelligent Personal Shopping Assistant
+**Type:** Python / Recommendation System / Software Project  
+**Tools:** Python, user-profile logic, recommendation rules
+
+- Built a Python-based shopping assistant that creates user profiles, manages carts, filters products, and suggests personalized recommendations.
+- Implemented product rating, price filtering, gift suggestions, and cart-total calculation logic.
+- Strengthened algorithmic thinking, user-centered design, and basic data-driven recommendation skills.
+
+---
+
+### 🧬 10. Targeting Multiple Checkpoints in Lupus Nephritis: Cemiplimab and BMS-202 Combination Therapy
+**Type:** Biochemistry / Immunotherapy / Research Proposal
+
+- Developed a proposal exploring PD-1/PD-L1 immune-checkpoint modulation in lupus nephritis.
+- Designed experimental methods including animal-model selection, immune-cell culture, MTT assay, CCK-8 assay, and ELISA-based PD-1 detection.
+- Connected autoimmune disease mechanisms with immunotherapy concepts and combination-treatment design.
+
+---
+
+## 📌 Current Portfolio Goals
+
+- Build clean GitHub repositories for each major project
+- Add reproducible code, notebooks, figures, and project reports
+- Improve documentation with clear README files
+- Develop stronger bioinformatics projects using public datasets
+- Expand skills in Python, R, scRNA-seq, genomics, and machine learning
+
+---
+
+## 📫 Connect With Me
+
+- **Email:** shaimaamo101@gmail.com
+- **LinkedIn:** [Shimaa Mohamed](https://www.linkedin.com/in/shimaa-mohamed-9a7a6a2b0/)
+- **GitHub:** [shaimaamo1](https://github.com/shaimaamo1)
+
+---
+
+⭐ This profile is continuously updated as I add more computational biology, genomics, and biomedical data-analysis projects.
