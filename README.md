@@ -1,4 +1,4 @@
-# Hi, I'm Shimaa Mohamed Abdel Elhalim 👋
+# Hi, I'm Shaimaa Mohamed El Haddad 👋
 
 🎓 **Biomedical Science Undergraduate | Computational Biology & Genomics**  
 🧬 Interested in **bioinformatics, cancer genomics, single-cell RNA-seq, molecular biology, and biomedical data analysis**.  
