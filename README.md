@@ -138,12 +138,13 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🫁 8. *Streptococcus pneumoniae*: Pathogenesis and Interactions with Host Defenses
-**Type:** Pathogenesis / Microbiology / Host-Pathogen Interaction
+### 🫁 8. *Streptococcus pneumoniae*: Pathogenesis & Host Defense
+**Date:** 01/2026  
+**Type:** Research Project / Microbiology / Host-Pathogen Interaction
 
-- Studied the pathogenesis cycle of *Streptococcus pneumoniae*, including transmission, adherence, colonization, invasion, immune evasion, host damage, and exit.
-- Explained virulence factors such as the polysaccharide capsule, pneumolysin, hydrogen peroxide, extracellular vesicles, and hyaluronidase.
-- Connected bacterial pathogenesis mechanisms to vaccine development and therapeutic targeting opportunities.
+- Analyzed infection mechanisms, immune evasion strategies, and major virulence factors involved in *Streptococcus pneumoniae* pathogenesis.
+- Studied biological pathways involved in host defense and proposed potential vaccine-related approaches.
+- Strengthened research, analysis, and scientific interpretation skills through pathogen-focused literature review and presentation.
 
 ---
 
