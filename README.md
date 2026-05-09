@@ -179,7 +179,7 @@ My goal is to build projects that show both sides of my background:
 
 ## 📫 Connect With Me
 
-- **Email:** shaimaamo101@gmail.com
+- **Email:** shaimaamo1000@gmail.com
 - **LinkedIn:** [Shimaa Mohamed](https://www.linkedin.com/in/shimaa-mohamed-9a7a6a2b0/)
 - **GitHub:** [shaimaamo1](https://github.com/shaimaamo1)
 
