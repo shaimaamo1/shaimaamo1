@@ -67,7 +67,19 @@ My goal is to build projects that show both sides of my background:
 
 ## 🚀 Featured Projects
 
-### 🧬 1. Decoding Cancer-Associated Fibroblast Heterogeneity in Breast Cancer Metastasis Using scRNA-seq
+### 🧮 1. Numerical Modeling of Chronic Myeloid Leukemia Dynamics Using MATLAB
+**Type:** Numerical Analysis / Computational Biology / Biomedical Modeling  
+**Tools:** MATLAB, Euler’s Method, mathematical modeling, scientific visualization  
+**Project Page:** [CML Numerical Modeling MATLAB](Projects/CML-Numerical-Modeling-MATLAB.md)
+
+- Developed a MATLAB-based numerical simulation model to study Chronic Myeloid Leukemia dynamics using gene expression data and treatment-response assumptions.
+- Applied Euler’s Method to approximate changes in mRNA expression and leukemic cell behavior over time.
+- Compared untreated and treated simulation scenarios using MATLAB-generated plots and biomedical interpretation.
+- Strengthened skills in numerical analysis, MATLAB programming, mathematical modeling, and biological data interpretation.
+
+---
+
+### 🧬 2. Decoding Cancer-Associated Fibroblast Heterogeneity in Breast Cancer Metastasis Using scRNA-seq
 **Status:** Ongoing research project  
 **Type:** Bioinformatics / Cancer Genomics / Single-cell RNA-seq  
 **Tools:** R, Seurat, Matrix, dplyr, ggplot2, CellChat concepts
@@ -78,7 +90,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🧪 2. Optimized SELEX Aptamers for Therapeutic Targeting of Prion Protein
+### 🧪 3. Optimized SELEX Aptamers for Therapeutic Targeting of Prion Protein
 **Type:** Molecular Therapeutics / Research Proposal / Aptamer Design  
 **Focus:** Prion disease, SELEX, L-RNA Spiegelmer aptamers, nanoparticle delivery
 
@@ -88,7 +100,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🧬 3. Lecithin Nano-Liposomes-Mediated CRISPR-Cas9 Targeting of DPP-4 for Type 2 Diabetes Therapy
+### 🧬 4. Lecithin Nano-Liposomes-Mediated CRISPR-Cas9 Targeting of DPP-4 for Type 2 Diabetes Therapy
 **Type:** Molecular Biology / Gene Editing / Nanomedicine  
 **Focus:** CRISPR-Cas9, DPP-4 knockout, GLP-1 activity, type 2 diabetes
 
@@ -98,7 +110,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 📊 4. Biostatistics Analysis: Combined Effects of Smoking, Age, and Gender on Hypertension
+### 📊 5. Biostatistics Analysis: Combined Effects of Smoking, Age, and Gender on Hypertension
 **Type:** Biostatistics / Public Health Data Analysis  
 **Tools:** R, Excel, ANOVA, regression, visualization
 
@@ -108,7 +120,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🦠 5. Navigating *Escherichia coli*: Clinical Characterization and Effective Inhibitory Approaches
+### 🦠 6. Navigating *Escherichia coli*: Clinical Characterization and Effective Inhibitory Approaches
 **Type:** Microbiology / Laboratory Research  
 **Focus:** Bacterial characterization, bacterial growth, inhibitory approaches, bacteriophage concepts
 
@@ -118,7 +130,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🧫 6. Analytical Project: Analysis of Glucose
+### 🧫 7. Analytical Project: Analysis of Glucose
 **Type:** Clinical Biochemistry / Diagnostic Analysis  
 **Focus:** Blood glucose, enzymatic colorimetric assay, spectrophotometry
 
@@ -128,7 +140,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🧮 7. Linear Algebra Exploration of Eigenvalues and Eigenvectors in a Light-Sensitive Intelligent LED System
+### 🧮 8. Linear Algebra Exploration of Eigenvalues and Eigenvectors in a Light-Sensitive Intelligent LED System
 **Type:** Applied Mathematics / Smart System Modeling  
 **Tools:** Python, NumPy, linear algebra
 
@@ -138,7 +150,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🫁 8. *Streptococcus pneumoniae*: Pathogenesis & Host Defense
+### 🫁 9. *Streptococcus pneumoniae*: Pathogenesis & Host Defense
 **Date:** 01/2026  
 **Type:** Research Project / Microbiology / Host-Pathogen Interaction
 
@@ -148,7 +160,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🛒 9. Aurora – Intelligent Personal Shopping Assistant
+### 🛒 10. Aurora – Intelligent Personal Shopping Assistant
 **Type:** Python / Recommendation System / Software Project  
 **Tools:** Python, user-profile logic, recommendation rules
 
@@ -158,7 +170,7 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🧬 10. Targeting Multiple Checkpoints in Lupus Nephritis: Cemiplimab and BMS-202 Combination Therapy
+### 🧬 11. Targeting Multiple Checkpoints in Lupus Nephritis: Cemiplimab and BMS-202 Combination Therapy
 **Type:** Biochemistry / Immunotherapy / Research Proposal
 
 - Developed a proposal exploring PD-1/PD-L1 immune-checkpoint modulation in lupus nephritis.
