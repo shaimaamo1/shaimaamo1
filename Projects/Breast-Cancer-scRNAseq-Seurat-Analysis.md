@@ -246,10 +246,6 @@ The project generated and interpreted several biological visualizations, includi
 - Biological interpretation of transcriptomic and signaling results
 - Scientific visualization and presentation
 
-## Project Limitation
-
-One limitation of this study is that the dataset included **primary breast cancer samples only**. Therefore, metastatic CAF comparison could not be performed.
-
 ## Conclusion
 
 This project demonstrates a complete single-cell transcriptomics workflow for investigating CAF heterogeneity in breast cancer. By combining Seurat-based clustering, CAF subtype annotation, differential expression analysis, and CellChat communication analysis, the study provides insight into the functional diversity of CAF populations and their potential roles in regulating the breast cancer tumor microenvironment.
