@@ -83,15 +83,16 @@ My goal is to build projects that show both sides of my background:
 
 ---
 
-### 🧮 2. Numerical Modeling of Chronic Myeloid Leukemia Dynamics Using MATLAB
-**Type:** Numerical Analysis / Computational Biology / Biomedical Modeling  
-**Tools:** MATLAB, Euler’s Method, mathematical modeling, scientific visualization  
-**Project Page:** [CML Numerical Modeling MATLAB](Projects/CML-Numerical-Modeling-MATLAB.md)
+### 🧮 2. MATLAB-Based Numerical Simulation of BCR-ABL1 Expression Dynamics and Targeted Therapy Response in CML
+**Type:** Numerical Analysis / Computational Biology / Cancer Modeling  
+**Tools:** MATLAB, Euler’s Method, ode45, GEO transcriptomic data, scientific visualization  
+**Project Page:** [CML BCR-ABL1 MATLAB Simulation](Projects/CML-Numerical-Modeling-MATLAB.md)
 
-- Developed a MATLAB-based numerical simulation model to study Chronic Myeloid Leukemia dynamics using gene expression data and treatment-response assumptions.
-- Applied Euler’s Method to approximate changes in mRNA expression and leukemic cell behavior over time.
-- Compared untreated and treated simulation scenarios using MATLAB-generated plots and biomedical interpretation.
-- Strengthened skills in numerical analysis, MATLAB programming, mathematical modeling, and biological data interpretation.
+- Developed a MATLAB-based computational model to simulate **BCR-ABL1 mRNA and protein/activity dynamics** in Chronic Myeloid Leukemia.
+- Modeled normal, untreated CML, and treated CML scenarios to compare disease-related expression behavior and targeted therapy response.
+- Applied **Euler’s Method** and **MATLAB ode45** to solve and visualize the ordinary differential equation system over time.
+- Integrated GEO transcriptomic dataset **GSE33075** to support treatment-response analysis using healthy, pre-treatment CML, and post-imatinib treatment sample groups.
+- Demonstrated how mathematical modeling and gene expression analysis can be combined to represent cancer-related molecular dynamics and therapy-induced reduction in leukemic activity.
 
 ---
 
