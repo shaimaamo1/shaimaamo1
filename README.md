@@ -67,7 +67,20 @@ My goal is to build projects that show both sides of my background:
 
 ## 🚀 Featured Projects
 
-### 🧮 1. Numerical Modeling of Chronic Myeloid Leukemia Dynamics Using MATLAB
+### 🧬 1. Single-Cell RNA-seq Analysis of Breast Cancer Tumor Microenvironment
+**Type:** Bioinformatics / Cancer Genomics / Single-cell RNA-seq  
+**Tools:** R, Seurat, PCA, UMAP, clustering, differential gene expression analysis  
+**Project Page:** [Breast Cancer scRNA-seq Seurat Analysis](Projects/Breast-Cancer-scRNAseq-Seurat-Analysis.md)
+
+- Analyzed breast cancer single-cell RNA-seq data to explore cellular heterogeneity within the tumor microenvironment.
+- Built a Seurat-based workflow including data loading, quality control, normalization, highly variable gene selection, PCA, UMAP, clustering, and cell-type annotation.
+- Compared breast cancer subtype-associated expression patterns, including TNBC and ER+ groups, through differential gene expression analysis.
+- Visualized biological results using UMAPs, volcano plots, violin plots, feature plots, and dot plots.
+- Strengthened skills in R programming, single-cell transcriptomics, tumor microenvironment analysis, and computational interpretation of cancer data.
+
+---
+
+### 🧮 2. Numerical Modeling of Chronic Myeloid Leukemia Dynamics Using MATLAB
 **Type:** Numerical Analysis / Computational Biology / Biomedical Modeling  
 **Tools:** MATLAB, Euler’s Method, mathematical modeling, scientific visualization  
 **Project Page:** [CML Numerical Modeling MATLAB](Projects/CML-Numerical-Modeling-MATLAB.md)
@@ -76,17 +89,6 @@ My goal is to build projects that show both sides of my background:
 - Applied Euler’s Method to approximate changes in mRNA expression and leukemic cell behavior over time.
 - Compared untreated and treated simulation scenarios using MATLAB-generated plots and biomedical interpretation.
 - Strengthened skills in numerical analysis, MATLAB programming, mathematical modeling, and biological data interpretation.
-
----
-
-### 🧬 2. Decoding Cancer-Associated Fibroblast Heterogeneity in Breast Cancer Metastasis Using scRNA-seq
-**Status:** Ongoing research project  
-**Type:** Bioinformatics / Cancer Genomics / Single-cell RNA-seq  
-**Tools:** R, Seurat, Matrix, dplyr, ggplot2, CellChat concepts
-
-- Currently analyzing the **GSE176078 breast cancer scRNA-seq dataset** to study tumor microenvironment heterogeneity with a focus on cancer-associated fibroblasts.
-- Developed the first stages of a Seurat-based workflow including quality control, filtering, normalization, highly variable gene selection, PCA, UMAP, clustering, and CAF extraction.
-- Ongoing work focuses on CAF subtype annotation, differential expression, pathway enrichment, and cell-cell communication analysis.
 
 ---
 
