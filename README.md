@@ -46,9 +46,11 @@ My goal is to build projects that show both sides of my background:
 ![Seurat](https://img.shields.io/badge/Seurat-R%20Pipeline-red?style=flat-square)
 ![Cancer Genomics](https://img.shields.io/badge/Cancer%20Genomics-TME%20Analysis-pink?style=flat-square)
 ![CellChat](https://img.shields.io/badge/CellChat-Cell--Cell%20Communication-teal?style=flat-square)
+![Harmony](https://img.shields.io/badge/Harmony-Batch%20Correction-violet?style=flat-square)
 
 - Single-cell RNA-seq workflow concepts
 - Seurat pipeline: QC, filtering, normalization, HVG selection, PCA, UMAP, clustering
+- Harmony batch correction for integrated scRNA-seq analysis
 - Cell-type annotation and marker-gene interpretation
 - CAF subtype analysis and tumor microenvironment interpretation
 - Differential expression, pathway enrichment, and cell-cell communication concepts
@@ -67,16 +69,17 @@ My goal is to build projects that show both sides of my background:
 
 ## 🚀 Featured Projects
 
-### 🧬 1. Single-Cell RNA-seq Analysis of Breast Cancer Tumor Microenvironment
-**Type:** Bioinformatics / Cancer Genomics / Single-cell RNA-seq  
-**Tools:** R, Seurat, PCA, UMAP, clustering, differential gene expression analysis  
-**Project Page:** [Breast Cancer scRNA-seq Seurat Analysis](Projects/Breast-Cancer-scRNAseq-Seurat-Analysis.md)
+### 🧬 1. Decoding Cancer-Associated Fibroblast Heterogeneity in the Breast Cancer Microenvironment Using scRNA-seq
+**Type:** Bioinformatics / Cancer Genomics / Single-cell RNA-seq / Tumor Microenvironment Analysis  
+**Tools:** R, Seurat, Harmony, CellChat, PCA, UMAP, clustering, differential expression analysis  
+**Project Page:** [Breast Cancer CAF scRNA-seq Analysis](Projects/Breast-Cancer-scRNAseq-Seurat-Analysis.md)
 
-- Analyzed breast cancer single-cell RNA-seq data to explore cellular heterogeneity within the tumor microenvironment.
-- Built a Seurat-based workflow including data loading, quality control, normalization, highly variable gene selection, PCA, UMAP, clustering, and cell-type annotation.
-- Compared breast cancer subtype-associated expression patterns, including TNBC and ER+ groups, through differential gene expression analysis.
-- Visualized biological results using UMAPs, volcano plots, violin plots, feature plots, and dot plots.
-- Strengthened skills in R programming, single-cell transcriptomics, tumor microenvironment analysis, and computational interpretation of cancer data.
+- Analyzed the **GSE176078 human breast cancer scRNA-seq dataset** to investigate cellular heterogeneity within the tumor microenvironment.
+- Built a complete Seurat-based workflow including quality control, filtering, normalization, highly variable gene selection, PCA, Harmony batch correction, UMAP, clustering, and marker-gene analysis.
+- Annotated major tumor microenvironment cell populations and isolated CAFs for independent re-clustering and subtype annotation.
+- Identified five CAF populations: **myCAF, iCAF, matrixCAF, apCAF, and proliferativeCAF** using marker-gene-based interpretation.
+- Applied CellChat to explore ligand–receptor communication between CAF subtypes and interpret key signaling pathways including **COLLAGEN, MK, and FN1**.
+- Strengthened skills in R programming, single-cell transcriptomics, CAF biology, tumor microenvironment analysis, and computational cancer genomics.
 
 ---
 
