@@ -34,12 +34,14 @@ My goal is to use computational tools to understand biological systems, especial
 ![Seurat](https://img.shields.io/badge/Seurat-R%20Pipeline-red?style=flat-square)
 ![Cancer Genomics](https://img.shields.io/badge/Cancer%20Genomics-TME%20Analysis-pink?style=flat-square)
 ![Harmony](https://img.shields.io/badge/Harmony-Batch%20Correction-violet?style=flat-square)
+![CellChat](https://img.shields.io/badge/CellChat-Cell--Cell%20Communication-teal?style=flat-square)
 
 - Single-cell RNA-seq preprocessing and analysis
 - Seurat workflow: QC, normalization, HVG selection, PCA, UMAP, clustering
 - Harmony batch correction
 - Marker-gene interpretation and cell-type annotation
-- Differential expression analysis and pathway enrichment
+- Differential expression analysis
+- Cell-cell communication analysis using CellChat
 - Tumor microenvironment and CAF biology
 
 ### Molecular Biology & Laboratory Skills
@@ -54,28 +56,29 @@ My goal is to use computational tools to understand biological systems, especial
 
 ## Featured Projects
 
-### 1. Decoding CAF Heterogeneity in Breast Cancer Using scRNA-seq
-**Type:** Bioinformatics | Cancer Genomics | Single-cell RNA-seq  
+### 1. Decoding CAF Heterogeneity in the Breast Cancer Microenvironment Using scRNA-seq
+**Type:** Bioinformatics | Cancer Genomics | Single-cell RNA-seq | Tumor Microenvironment Analysis  
 **Tools:** R, Seurat, Harmony, CellChat, PCA, UMAP, differential expression analysis  
 **Repository:** [breast-cancer-caf-heterogeneity-scrna-seq](https://github.com/shaimaamo1/breast-cancer-caf-heterogeneity-scrna-seq)
 
-- Built a complete Seurat-based workflow for the **GSE176078 breast cancer scRNA-seq dataset**.
-- Performed QC, normalization, HVG selection, PCA, Harmony correction, UMAP, clustering, and marker analysis.
-- Annotated tumor microenvironment cell populations and extracted fibroblast/CAF populations.
-- Compared **TNBC vs ER-positive** groups using differential expression analysis.
-- Generated reproducible outputs including QC plots, UMAPs, volcano plot, DE heatmap, and pathway enrichment results.
+- Built a complete Seurat-based workflow for the **GSE176078 human breast cancer scRNA-seq dataset**.
+- Performed quality control, filtering, normalization, highly variable gene selection, PCA, Harmony batch correction, UMAP, clustering, and marker-gene analysis.
+- Annotated major tumor microenvironment cell populations and isolated CAFs for independent re-clustering and subtype annotation.
+- Identified CAF populations including **myCAF, iCAF, matrixCAF, apCAF, and proliferativeCAF** using marker-gene interpretation.
+- Applied CellChat to explore ligand-receptor communication between CAF subtypes and interpret key signaling pathways including **COLLAGEN, MK, and FN1**.
 
 ---
 
-### 2. BCR-ABL1 Expression Dynamics and Targeted Therapy Response in CML
+### 2. BCR-ABL1 Expression Dynamics and Targeted Therapy Response in Chronic Myeloid Leukemia
 **Type:** Numerical Analysis | Computational Biology | Cancer Modeling  
-**Tools:** MATLAB, Euler’s Method, RK4, ode45, gene expression analysis  
+**Tools:** MATLAB, Euler’s Method, ode45, GEO transcriptomic data, scientific visualization  
 **Repository:** [CML-BCRABL1-MATLAB-Simulation](https://github.com/shaimaamo1/CML-BCRABL1-MATLAB-Simulation)
 
-- Developed a MATLAB-based model to simulate **BCR-ABL1-related molecular dynamics** in Chronic Myeloid Leukemia.
-- Compared untreated and treated CML-like conditions using numerical ODE methods.
-- Integrated gene expression analysis and generated scientific visualizations.
-- Demonstrated how mathematical modeling can support interpretation of cancer-related molecular behavior.
+- Developed a MATLAB-based model to simulate **BCR-ABL1 mRNA and protein/activity dynamics** in Chronic Myeloid Leukemia.
+- Compared **normal**, **untreated CML**, and **treated CML** scenarios to evaluate disease-related molecular behavior and treatment response.
+- Applied **Euler’s Method** and MATLAB **ode45** to solve and visualize the ODE-based model over time.
+- Integrated GEO transcriptomic dataset **GSE33075** to support treatment-response analysis using healthy, pre-treatment CML, and post-imatinib treatment sample groups.
+- Demonstrated how mathematical modeling and gene expression analysis can be combined to represent cancer-related molecular dynamics.
 
 ---
 
