@@ -79,16 +79,6 @@ My goal is to use computational tools to understand biological systems, especial
 
 ---
 
-### 3. SELEX Aptamers for Therapeutic Targeting of Prion Protein
-**Type:** Molecular Therapeutics | Research Proposal | Aptamer Design  
-**Repository:** [selex-aptamer-prion-protein](https://github.com/shaimaamo1/selex-aptamer-prion-protein)
-
-- Designed a therapeutic proposal using **SELEX-derived L-RNA Spiegelmer aptamers** to target prion protein misfolding.
-- Proposed binding validation using SPR/BLI, EMSA, ThT aggregation assays, and cellular uptake analysis.
-- Integrated molecular biology, protein-binding assays, nanomedicine, and therapeutic design.
-
----
-
 ## Current Focus
 
 - Building clean and reproducible GitHub repositories
