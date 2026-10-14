@@ -89,11 +89,11 @@ QC metrics included:
 
 Filtering criteria:
 
-- `nFeature_RNA > 300`
-- `nFeature_RNA < 6000`
-- `percent.mito < 10%`
+- `nFeature_RNA >= 300`
+- `nFeature_RNA <= 6000`
+- `percent.mt <= 20%`
 
-After filtering, **81,820 cells** were retained from the original **100,064 cells**.
+The original project report documented **81,820 retained cells** from **100,064 input cells**; this count needs to be revalidated with the current committed script and dataset.
 
 ### 3. Normalization, Highly Variable Genes, and PCA
 
@@ -271,3 +271,7 @@ Biomedical Science Student | Computational Biology & Genomics Track
 ## GitHub Repository Description
 
 Single-cell RNA-seq analysis of breast cancer CAF heterogeneity using Seurat, Harmony, and CellChat to annotate CAF subtypes, perform differential expression analysis, and explore cell–cell communication within the tumor microenvironment.
+
+## Reproducibility Note
+
+The checked-in [analysis script](https://github.com/shaimaamo1/breast-cancer-caf-heterogeneity-scrna-seq/blob/main/scripts/scRNAseq_GSE176078_full_analysis.R) currently uses `nFeature_RNA >= 300`, `nFeature_RNA <= 6000`, and `percent.mt <= 20`. Reported outputs from the original team project should not be assumed to reproduce exactly until the script is rerun using the corresponding input data and metadata.
