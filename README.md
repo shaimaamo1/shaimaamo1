@@ -1,102 +1,54 @@
-# Hi, I'm Shaimaa Mohamed El Haddad 👋
+# Hi, I'm Shaimaa 👋
 
-🎓 **Biomedical Science Undergraduate | Computational Biology & Genomics**  
-🧬 Interested in **bioinformatics, cancer genomics, single-cell RNA-seq, molecular biology, and biomedical data analysis**.  
-💻 Building a portfolio that connects **biomedical science + computational biology**.
+### Python & AI Automation | Computational Biology
 
----
+I build and explore **practical automation workflows**, with an interest in how AI, Python, and connected tools can simplify real work. My background in **computational biology and genomics** brings a research-driven approach to solving problems: understand the process, work with data, and document results clearly.
 
-## About Me
-
-I am a Biomedical Science student at **Zewail City of Science and Technology**, specializing in **Computational Biology and Genomics**. I am developing skills in **R, Python, MATLAB, bioinformatics workflows, single-cell RNA-seq analysis, statistical analysis, and biomedical research design**.
-
-My goal is to use computational tools to understand biological systems, especially in cancer genomics, tumor microenvironment biology, and molecular therapeutics.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-mohamed-9a7a6a2b0/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-555555?style=flat&logo=gmail&logoColor=white)](mailto:shaimaamo1000@gmail.com)
 
 ---
 
-## Technical Skills
+## What I'm Focused On
 
-### Programming & Data Analysis
+- **AI & workflow automation:** learning, designing, and documenting workflows with n8n, Python, and connected services.
+- **Business process improvement:** exploring lead management, follow-ups, and reliable handoffs between tools.
+- **Data & scientific computing:** applying R, Python, and MATLAB to biological datasets and models.
+- **Building in public:** making projects easier to understand through clear READMEs, reproducible steps, and honest status updates.
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=flat-square&logo=python)
-![R](https://img.shields.io/badge/R-Bioinformatics%20%26%20Statistics-blue?style=flat-square&logo=r)
-![MATLAB](https://img.shields.io/badge/MATLAB-Numerical%20Modeling-orange?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-Data%20Handling-green?style=flat-square&logo=microsoft-excel)
+## Tools & Technologies
 
-- R for bioinformatics and statistical analysis
-- Python for data analysis and automation
-- MATLAB for numerical modeling and simulation
-- Data cleaning, visualization, and scientific interpretation
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-Numerical_Computing-orange?style=flat)
 
-### Bioinformatics & Computational Biology
+**Areas of interest:** AI agents • Automation design • API integrations • Bioinformatics • Genomics • Data visualization
 
-![scRNA-seq](https://img.shields.io/badge/scRNA--seq-Single--Cell%20Analysis-purple?style=flat-square)
-![Seurat](https://img.shields.io/badge/Seurat-R%20Pipeline-red?style=flat-square)
-![Cancer Genomics](https://img.shields.io/badge/Cancer%20Genomics-TME%20Analysis-pink?style=flat-square)
-![Harmony](https://img.shields.io/badge/Harmony-Batch%20Correction-violet?style=flat-square)
-![CellChat](https://img.shields.io/badge/CellChat-Cell--Cell%20Communication-teal?style=flat-square)
+## Selected Projects
 
-- Single-cell RNA-seq preprocessing and analysis
-- Seurat workflow: QC, normalization, HVG selection, PCA, UMAP, clustering
-- Harmony batch correction
-- Marker-gene interpretation and cell-type annotation
-- Differential expression analysis
-- Cell-cell communication analysis using CellChat
-- Tumor microenvironment and CAF biology
+| Project | What it explores | Status |
+| --- | --- | --- |
+| **[Madar AI](https://github.com/shaimaamo1/madar-ai)** | A proposed AI-assisted real-estate operations platform, bringing together CRM, lead workflows, and n8n automation. | Concept / planning; implementation not yet published |
+| **[Breast Cancer CAF Heterogeneity — scRNA-seq](https://github.com/shaimaamo1/breast-cancer-caf-heterogeneity-scrna-seq)** | Team bioinformatics project using R, Seurat, Harmony, and CellChat to study fibroblast diversity in breast cancer. | Completed academic project |
+| **[BCR-ABL1 MATLAB Simulation](https://github.com/shaimaamo1/CML-BCRABL1-MATLAB-Simulation)** | Team project modeling chronic myeloid leukemia expression dynamics and treatment-response scenarios with MATLAB. | Completed academic project |
+| **[SELEX Aptamers & Prion Protein](https://github.com/shaimaamo1/selex-aptamer-prion-protein)** | A research proposal covering aptamer selection, molecular validation, and nanoparticle delivery. | Research proposal |
 
-### Molecular Biology & Laboratory Skills
+> **My approach:** start with a real problem, build an understandable workflow, test assumptions, and improve the documentation as the project develops.
 
-- PCR, colony PCR, PCR-RFLP
-- DNA extraction, amplification, and agarose gel electrophoresis
-- Restriction digestion, ligation, bacterial transformation, and cloning concepts
-- Bacterial growth analysis and CFU enumeration
-- Scientific reporting, experimental design, and hypothesis testing
+## Currently Learning & Building
 
----
+- Developing more reliable **n8n automations** and Python-based integrations.
+- Exploring where **AI-assisted workflows** can help small businesses.
+- Strengthening my ability to turn an idea into a documented, demonstrable project.
 
-## Featured Projects
+## Let's Connect
 
-### 1. Decoding CAF Heterogeneity in the Breast Cancer Microenvironment Using scRNA-seq
-**Type:** Bioinformatics | Cancer Genomics | Single-cell RNA-seq | Tumor Microenvironment Analysis  
-**Tools:** R, Seurat, Harmony, CellChat, PCA, UMAP, differential expression analysis  
-**Repository:** [breast-cancer-caf-heterogeneity-scrna-seq](https://github.com/shaimaamo1/breast-cancer-caf-heterogeneity-scrna-seq)
+I'm interested in **automation, applied AI, Python projects, and research-oriented software**. I'm open to exchanging ideas and collaborating on practical projects.
 
-- Built a complete Seurat-based workflow for the **GSE176078 human breast cancer scRNA-seq dataset**.
-- Performed quality control, filtering, normalization, highly variable gene selection, PCA, Harmony batch correction, UMAP, clustering, and marker-gene analysis.
-- Annotated major tumor microenvironment cell populations and isolated CAFs for independent re-clustering and subtype annotation.
-- Identified CAF populations including **myCAF, iCAF, matrixCAF, apCAF, and proliferativeCAF** using marker-gene interpretation.
-- Applied CellChat to explore ligand-receptor communication between CAF subtypes and interpret key signaling pathways including **COLLAGEN, MK, and FN1**.
-
----
-
-### 2. BCR-ABL1 Expression Dynamics and Targeted Therapy Response in Chronic Myeloid Leukemia
-**Type:** Numerical Analysis | Computational Biology | Cancer Modeling  
-**Tools:** MATLAB, Euler’s Method, ode45, GEO transcriptomic data, scientific visualization  
-**Repository:** [CML-BCRABL1-MATLAB-Simulation](https://github.com/shaimaamo1/CML-BCRABL1-MATLAB-Simulation)
-
-- Developed a MATLAB-based model to simulate **BCR-ABL1 mRNA and protein/activity dynamics** in Chronic Myeloid Leukemia.
-- Compared **normal**, **untreated CML**, and **treated CML** scenarios to evaluate disease-related molecular behavior and treatment response.
-- Applied **Euler’s Method** and MATLAB **ode45** to solve and visualize the ODE-based model over time.
-- Integrated GEO transcriptomic dataset **GSE33075** to support treatment-response analysis using healthy, pre-treatment CML, and post-imatinib treatment sample groups.
-- Demonstrated how mathematical modeling and gene expression analysis can be combined to represent cancer-related molecular dynamics.
-
----
-
-## Current Focus
-
-- Building clean and reproducible GitHub repositories
-- Strengthening R and Python for bioinformatics workflows
-- Developing single-cell and cancer genomics projects
-- Improving scientific documentation and visualization
-
----
-
-## Connect With Me
-
-- **Email:** shaimaamo1000@gmail.com
 - **LinkedIn:** [Shimaa Mohamed](https://www.linkedin.com/in/shimaa-mohamed-9a7a6a2b0/)
-- **GitHub:** [shaimaamo1](https://github.com/shaimaamo1)
+- **Email:** [shaimaamo1000@gmail.com](mailto:shaimaamo1000@gmail.com)
 
----
-
-⭐ This profile is continuously updated as I build more computational biology and biomedical data-analysis projects.
+<sub>Project descriptions reflect the current state of their public repositories. Work in progress is labeled as such.</sub>
