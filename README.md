@@ -1,54 +1,61 @@
-# Hi, I'm Shaimaa 👋
+# Shaimaa Mohamed 👋
 
-### Python & AI Automation | Computational Biology
+**Python & AI Automation | n8n Workflows | Computational Biology**
 
-I build and explore **practical automation workflows**, with an interest in how AI, Python, and connected tools can simplify real work. My background in **computational biology and genomics** brings a research-driven approach to solving problems: understand the process, work with data, and document results clearly.
+I'm exploring practical ways to connect **Python, automation, and AI-assisted workflows** to solve real problems. My background in computational biology and data analysis brings a research-focused approach to building and documenting projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimaa-mohamed-9a7a6a2b0/)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-555555?style=flat&logo=gmail&logoColor=white)](mailto:shaimaamo1000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaimaa-muhammad-9a7a6a2b0/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shaimaamo1)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shaimaamo1000@gmail.com)
 
 ---
 
-## What I'm Focused On
+## 🚀 Featured Build: Madar AI
 
-- **AI & workflow automation:** learning, designing, and documenting workflows with n8n, Python, and connected services.
-- **Business process improvement:** exploring lead management, follow-ups, and reliable handoffs between tools.
-- **Data & scientific computing:** applying R, Python, and MATLAB to biological datasets and models.
-- **Building in public:** making projects easier to understand through clear READMEs, reproducible steps, and honest status updates.
+### [Madar AI — Real-Estate Workflow Automation](https://github.com/shaimaamo1/madar-ai)
 
-## Tools & Technologies
+[![Python tests](https://github.com/shaimaamo1/madar-ai/actions/workflows/python-tests.yml/badge.svg)](https://github.com/shaimaamo1/madar-ai/actions/workflows/python-tests.yml)
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Stage-Offline%20prototype-blue?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-Numerical_Computing-orange?style=flat)
+An early-stage idea for AI-assisted real-estate operations, with a **working offline Python lead-triage demo** in the public repository.
 
-**Areas of interest:** AI agents • Automation design • API integrations • Bioinformatics • Genomics • Data visualization
+- Imports synthetic lead records from CSV and validates fields.
+- Uses explainable rules to prioritize leads and flag duplicate contacts.
+- Prepares follow-up drafts for human review when consent is recorded.
+- Includes unit tests and automated checks with GitHub Actions.
+- **Coming later:** n8n integrations, CRM connections, and end-to-end business workflows.
 
-## Selected Projects
+**Explore:** [Read the project](https://github.com/shaimaamo1/madar-ai#readme) · [View the Python demo](https://github.com/shaimaamo1/madar-ai/blob/main/examples/lead_triage_demo.py) · [See the automated tests](https://github.com/shaimaamo1/madar-ai/actions)
 
-| Project | What it explores | Status |
+> The available code is a rule-based demonstration, not yet a deployed AI agent or production CRM.
+
+## 📂 More Projects
+
+| Project | Focus | Stack / Status |
 | --- | --- | --- |
-| **[Madar AI](https://github.com/shaimaamo1/madar-ai)** | Real-estate automation concept with a runnable offline Python lead-triage demo; CRM and n8n integrations remain planned. | Tested Python prototype |
-| **[Breast Cancer CAF Heterogeneity — scRNA-seq](https://github.com/shaimaamo1/breast-cancer-caf-heterogeneity-scrna-seq)** | Team bioinformatics project using R, Seurat, Harmony, and CellChat to study fibroblast diversity in breast cancer. | Completed academic project |
-| **[BCR-ABL1 MATLAB Simulation](https://github.com/shaimaamo1/CML-BCRABL1-MATLAB-Simulation)** | Team project modeling chronic myeloid leukemia expression dynamics and treatment-response scenarios with MATLAB. | Completed academic project |
-| **[SELEX Aptamers & Prion Protein](https://github.com/shaimaamo1/selex-aptamer-prion-protein)** | A research proposal covering aptamer selection, molecular validation, and nanoparticle delivery. | Research proposal |
+| **[Breast Cancer CAF Heterogeneity](https://github.com/shaimaamo1/breast-cancer-caf-heterogeneity-scrna-seq)** | Single-cell RNA-seq analysis of cancer-associated fibroblast populations in a team bioinformatics project | R · Seurat · Harmony · CellChat · Academic project |
+| **[BCR-ABL1 MATLAB Simulation](https://github.com/shaimaamo1/CML-BCRABL1-MATLAB-Simulation)** | Numerical modeling of gene-expression dynamics and targeted-therapy response in chronic myeloid leukemia | MATLAB · ODE models · Team project |
+| **[SELEX Aptamers & Prion Protein](https://github.com/shaimaamo1/selex-aptamer-prion-protein)** | Research proposal on aptamer design, experimental validation, and delivery | Molecular biology · Research proposal |
 
-> **My approach:** start with a real problem, build an understandable workflow, test assumptions, and improve the documentation as the project develops.
+## 🛠 Tools & Interests
 
-## Currently Learning & Building
+**Building with / learning:** Python · n8n · Git · GitHub · API integrations · Automation design
 
-- Developing more reliable **n8n automations** and Python-based integrations.
-- Exploring where **AI-assisted workflows** can help small businesses.
-- Strengthening my ability to turn an idea into a documented, demonstrable project.
+**Scientific computing:** R · MATLAB · Genomics · Bioinformatics · Data visualization
 
-## Let's Connect
+**Interested in:** Business automation, AI-assisted workflows, reliable integrations, reproducible analysis, and clear developer documentation.
 
-I'm interested in **automation, applied AI, Python projects, and research-oriented software**. I'm open to exchanging ideas and collaborating on practical projects.
+## 📍 Current Focus
 
-- **LinkedIn:** [Shimaa Mohamed](https://www.linkedin.com/in/shimaa-mohamed-9a7a6a2b0/)
-- **Email:** [shaimaamo1000@gmail.com](mailto:shaimaamo1000@gmail.com)
+- Building small working automations and turning them into demonstrable portfolio projects.
+- Practicing Python programming, workflow reliability, and API connections.
+- Documenting what works today — and clearly distinguishing prototypes from planned features.
 
-<sub>Project descriptions reflect the current state of their public repositories. Work in progress is labeled as such.</sub>
+## 🤝 Connect
+
+I'm interested in exchanging ideas and contributing to practical **Python, automation, and interdisciplinary data projects**.
+
+[LinkedIn](https://www.linkedin.com/in/shaimaa-muhammad-9a7a6a2b0/) · [Email](mailto:shaimaamo1000@gmail.com)
+
+<sub>Public portfolio projects are linked above; private repositories are intentionally not listed.</sub>
