@@ -1,5 +1,7 @@
 # Decoding Cancer-Associated Fibroblast Heterogeneity in the Breast Cancer Microenvironment Using Single-Cell RNA Sequencing
 
+> **Historical project write-up:** This page preserves the original team-project narrative. For the current repository contents, executable workflow, and reproducibility limitations, use the [maintained project README](https://github.com/shaimaamo1/breast-cancer-caf-heterogeneity-scrna-seq). Reported counts, subtype labels, and signaling findings below have not been reproduced against the current script.
+
 ## Project Overview
 
 This project investigates **Cancer-Associated Fibroblast (CAF) heterogeneity** in the breast cancer tumor microenvironment using single-cell RNA sequencing (scRNA-seq). Breast tumors contain multiple interacting cell populations, not only malignant epithelial cells, and scRNA-seq enables transcriptomic analysis at single-cell resolution.
@@ -85,7 +87,7 @@ QC metrics included:
 
 - `nFeature_RNA`
 - `nCount_RNA`
-- `percent.mito`
+- `percent.mt`
 
 Filtering criteria:
 
@@ -250,7 +252,7 @@ The project generated and interpreted several biological visualizations, includi
 
 This project demonstrates a complete single-cell transcriptomics workflow for investigating CAF heterogeneity in breast cancer. By combining Seurat-based clustering, CAF subtype annotation, differential expression analysis, and CellChat communication analysis, the study provides insight into the functional diversity of CAF populations and their potential roles in regulating the breast cancer tumor microenvironment.
 
-## Repository Structure
+## Proposed Artifact Layout
 
 ```text
 ├── data/                  # Input data and metadata
