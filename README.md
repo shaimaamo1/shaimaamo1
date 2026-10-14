@@ -31,7 +31,7 @@ I build and explore **practical automation workflows**, with an interest in how 
 
 | Project | What it explores | Status |
 | --- | --- | --- |
-| **[Madar AI](https://github.com/shaimaamo1/madar-ai)** | A proposed AI-assisted real-estate operations platform, bringing together CRM, lead workflows, and n8n automation. | Concept / planning; implementation not yet published |
+| **[Madar AI](https://github.com/shaimaamo1/madar-ai)** | Real-estate automation concept with a runnable offline Python lead-triage demo; CRM and n8n integrations remain planned. | Tested Python prototype |
 | **[Breast Cancer CAF Heterogeneity — scRNA-seq](https://github.com/shaimaamo1/breast-cancer-caf-heterogeneity-scrna-seq)** | Team bioinformatics project using R, Seurat, Harmony, and CellChat to study fibroblast diversity in breast cancer. | Completed academic project |
 | **[BCR-ABL1 MATLAB Simulation](https://github.com/shaimaamo1/CML-BCRABL1-MATLAB-Simulation)** | Team project modeling chronic myeloid leukemia expression dynamics and treatment-response scenarios with MATLAB. | Completed academic project |
 | **[SELEX Aptamers & Prion Protein](https://github.com/shaimaamo1/selex-aptamer-prion-protein)** | A research proposal covering aptamer selection, molecular validation, and nanoparticle delivery. | Research proposal |
